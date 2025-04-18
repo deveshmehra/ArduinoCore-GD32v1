@@ -44,10 +44,10 @@
               "name": "dfu-util"
             }
           ],
-          "url": "https://github.com/dmlambo/ArduinoCore-GD32/archive/refs/heads/main.zip",
+          "url": "https://github.com/CommunityGD32Cores/ArduinoCore-GD32/archive/refs/heads/main.zip",
         "version": "0.0.1",
-        "checksum": "SHA-256:9258db86f0514eefe5c5d3c999f40a5bdc5adbb40a9992a4086c7779bbec4a46", 
-        "size": "6246128" 
+        "checksum": "SHA-256:e54253d3ffe331c9c772190cc5f08d5c78db02458d11b6d8145437749d59e359", 
+        "size": "6062720" 
         }
       ],
       "tools": [
